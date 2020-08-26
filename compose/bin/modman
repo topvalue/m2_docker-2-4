@@ -41,7 +41,7 @@ cd src
 echo $(pwd)
 modman init
 echo "Install magento extensions.."
-#modman clone git@github.com:topvalue/m2_topvalue-script.git
+modman clone git@github.com:topvalue/m2_topvalue-baidu-webhook.git
 #modman clone git@github.com:topvalue/m2_pos_original-test.git
 
 cd ..
